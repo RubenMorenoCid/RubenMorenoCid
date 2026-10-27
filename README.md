@@ -1,4 +1,3 @@
-<!-- Cabecera: una imagen partida en 3 columnas, cada una con su enlace -->
 <div align="center"><a href="https://www.linkedin.com/in/rubenmorenocid/"><img src="assets/cabecera-1-linkedin.svg" width="33.33%" alt="LinkedIn" /></a><a href="mailto:rubenmoreno.tech@gmail.com"><img src="assets/cabecera-2-email.svg" width="33.33%" alt="Email" /></a><a href="https://www.credly.com/badges/d9faeb66-141c-411d-9c76-c36ea19e2a9c"><img src="assets/cabecera-3-credly.svg" width="33.33%" alt="Credly" /></a></div>
 
 ---
