@@ -13,18 +13,11 @@
   <br/>
 
   <!-- Contacto -->
-  <a href="https://www.linkedin.com/in/rubenmorenocid/">
-    <img src="https://img.shields.io/badge/LinkedIn-rubenmorenocid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rubenmoreno.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rubenmoreno.tech-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.credly.com/badges/d9faeb66-141c-411d-9c76-c36ea19e2a9c">
-    <img src="https://img.shields.io/badge/Credly-Java_certificado-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
-  </a>
+  <a href="https://www.linkedin.com/in/rubenmorenocid/"><img src="btn-linkedin.svg" height="56" alt="LinkedIn" /></a>
+  <a href="mailto:rubenmoreno.tech@gmail.com"><img src="btn-email.svg" height="56" alt="Email" /></a>
+  <a href="https://www.credly.com/badges/d9faeb66-141c-411d-9c76-c36ea19e2a9c"><img src="btn-credly.svg" height="56" alt="Credly" /></a>
   <br/>
-  <img src="https://img.shields.io/badge/📍_Madrid-0b1029?style=for-the-badge" alt="Madrid" />
-  <img src="https://img.shields.io/badge/✅_Disponible_para_prácticas-feb_2027-5EEAD4?style=for-the-badge&labelColor=0b1029" alt="Disponible para prácticas" />
+  <img src="btn-disponible.svg" height="56" alt="Madrid · Prácticas feb 2027" />
 
 </div>
 
@@ -32,39 +25,38 @@
 
 ### 🚀 Sobre mí
 
-```kotlin
-data class Developer(
-    val nombre: String = "Rubén Moreno-Cid",
-    val estudios: String = "DAM · U-tad (2025-2027)",
-    val antes: String = "Técnico de laboratorio y farmacia 🧪",
-    val ahora: List<String> = listOf("Rotheos 🚁", "PrestaKey 🔑"),
-    val aprendiendo: List<String> = listOf("Hibernate", "Sockets", "Concurrencia"),
-    val extra: String = "Piloto de drones certificado (AESA A1/A3)",
-    val disponible: Boolean = true
-)
-```
+- 🎓 Estudiante de **DAM en U-tad** (2025-2027).
+- 🧪 Vengo del mundo sanitario: **técnico de laboratorio y farmacia**. Ahora me dedico a lo que más me gusta: crear aplicaciones.
+- 🔭 Desarrollando **Rotheos** (TFG) y **PrestaKey** (Proyecto Integrador).
+- 🌱 Aprendiendo **Hibernate**, **sockets** y **programación concurrente** en Java.
+- 🚁 Piloto de drones certificado (**AESA A1/A3**).
 
 ---
 
 ### 🛠️ Tecnologías
 
-<div align="center">
-
-**Lenguajes**<br/>
-<img src="https://skillicons.dev/icons?i=python,kotlin,java,dart&theme=dark" alt="Lenguajes" />
-
-**Móvil**<br/>
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter&theme=dark" alt="Móvil" />
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" height="48" />
-
-**Bases de datos**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Bases de datos" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" height="48" />
-
-**Herramientas**<br/>
-<img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,docker,git,github&theme=dark" alt="Herramientas" />
-
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h4>💻 Lenguajes</h4>
+      <img src="https://skillicons.dev/icons?i=python,kotlin,java,dart,html,css&perline=3&theme=dark" width="230" alt="Lenguajes" />
+    </td>
+    <td align="center" width="50%">
+      <h4>📱 Móvil y frameworks</h4>
+      <img src="https://skillicons.dev/icons?i=androidstudio,flutter,hibernate,gradle,maven,figma&perline=3&theme=dark" width="230" alt="Móvil y frameworks" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🗄️ Bases de datos</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3&theme=dark" width="230" alt="Bases de datos" />
+    </td>
+    <td align="center" width="50%">
+      <h4>🧰 Herramientas</h4>
+      <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,docker,git,github&perline=3&theme=dark" width="230" alt="Herramientas" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -116,4 +108,4 @@ data class Developer(
 </div>
 
 <!-- Ola final con los colores de la portada -->
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:5eead4,100:6366f1&height=120" width="100%" /><img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/b3f12cf8-0c1f-4ac8-b7ed-8fa6e78df0ab" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:5eead4,100:6366f1&height=120" width="100%" />
