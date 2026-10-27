@@ -174,10 +174,10 @@
   <text x="1291.52" y="602.96" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="36" font-weight="700" fill="#fff">Credly</text>
   <linearGradient id="gdi" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22305F"/><stop offset="1" stop-color="#0B1029"/></linearGradient>
   <g filter="url(#sombra)">
-    <rect x="239.1199999999999" y="681.0" width="1105.7600000000002" height="88" rx="44.0" fill="url(#gdi)"/>
+    <rect x="346.64" y="681.0" width="890.72" height="88" rx="44.0" fill="url(#gdi)"/>
   </g>
-  <rect x="245.1199999999999" y="685.0" width="1093.7600000000002" height="40.0" rx="22.0" fill="url(#brillo)"/>
-  <rect x="240.1199999999999" y="682.0" width="1103.7600000000002" height="86" rx="43.0" fill="none" stroke="#000" stroke-opacity="0.3" stroke-width="2"/>
-  <circle cx="303.1199999999999" cy="725" r="17" fill="#5EEAD4" opacity="0.3"/><circle cx="303.1199999999999" cy="725" r="9" fill="#5EEAD4"/>
-  <text x="349.1199999999999" y="736.52" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="32" font-weight="700" fill="#fff">Madrid · Listo para mi primer reto como desarrollador</text>
+  <rect x="352.64" y="685.0" width="878.72" height="40.0" rx="22.0" fill="url(#brillo)"/>
+  <rect x="347.64" y="682.0" width="888.72" height="86" rx="43.0" fill="none" stroke="#000" stroke-opacity="0.3" stroke-width="2"/>
+  <circle cx="410.64" cy="725" r="17" fill="#5EEAD4" opacity="0.3"/><circle cx="410.64" cy="725" r="9" fill="#5EEAD4"/>
+  <text x="456.64" y="736.52" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="32" font-weight="700" fill="#fff">¡Hablemos! Escríbeme por LinkedIn o email</text>
 </svg>
