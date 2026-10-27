@@ -15,7 +15,7 @@
   <a href="mailto:rubenmoreno.tech@gmail.com"><img src="btn-email.svg" height="56" alt="Email" /></a>
   <a href="https://www.credly.com/badges/d9faeb66-141c-411d-9c76-c36ea19e2a9c"><img src="btn-credly.svg" height="56" alt="Credly" /></a>
   <br/>
-  <picture><img src="btn-disponible.svg" height="56" alt="Madrid · Prácticas feb 2027" /></picture>
+  <picture><img src="btn-disponible.svg" height="56" alt="En busca de prácticas (feb 2027)" /></picture>
 
 </div>
 
