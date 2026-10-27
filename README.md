@@ -35,22 +35,22 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <h4>💻 Lenguajes</h4>
+    <td align="center" width="415">
+      <p><b>💻 Lenguajes</b></p>
       <picture><img src="https://skillicons.dev/icons?i=python,kotlin,java,dart,html,css&perline=3&theme=dark" width="280" alt="Lenguajes" /></picture>
     </td>
-    <td align="center" width="50%">
-      <h4>📱 Móvil y frameworks</h4>
+    <td align="center" width="415">
+      <p><b>📱 Móvil y frameworks</b></p>
       <picture><img src="https://skillicons.dev/icons?i=androidstudio,flutter,hibernate,gradle,maven,figma&perline=3&theme=dark" width="280" alt="Móvil y frameworks" /></picture>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <h4>🗄️ Bases de datos</h4>
+    <td align="center" width="415">
+      <p><b>🗄️ Bases de datos</b></p>
       <picture><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3&theme=dark" width="280" alt="Bases de datos" /></picture>
     </td>
-    <td align="center" width="50%">
-      <h4>🧰 Herramientas</h4>
+    <td align="center" width="415">
+      <p><b>🧰 Herramientas</b></p>
       <picture><img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,docker,git,github&perline=3&theme=dark" width="280" alt="Herramientas" /></picture>
     </td>
   </tr>
