@@ -1,5 +1,5 @@
 <!-- Cabecera: una imagen partida en 3 columnas, cada una con su enlace -->
-<div align="center"><a href="https://www.linkedin.com/in/rubenmorenocid/"><img src="cabecera-1-linkedin.svg" width="33.33%" alt="LinkedIn" /></a><a href="mailto:rubenmoreno.tech@gmail.com"><img src="cabecera-2-email.svg" width="33.33%" alt="Email" /></a><a href="https://www.credly.com/badges/d9faeb66-141c-411d-9c76-c36ea19e2a9c"><img src="cabecera-3-credly.svg" width="33.33%" alt="Credly" /></a></div>
+<div align="center"><a href="https://www.linkedin.com/in/rubenmorenocid/"><img src="assets/cabecera-1-linkedin.svg" width="33.33%" alt="LinkedIn" /></a><a href="mailto:rubenmoreno.tech@gmail.com"><img src="assets/cabecera-2-email.svg" width="33.33%" alt="Email" /></a><a href="https://www.credly.com/badges/d9faeb66-141c-411d-9c76-c36ea19e2a9c"><img src="assets/cabecera-3-credly.svg" width="33.33%" alt="Credly" /></a></div>
 
 ---
 
@@ -15,25 +15,25 @@
 
 ### 🛠️ Tecnologías
 
-<table width="100%">
+<table>
   <tr>
-    <td align="center" width="415">
+    <td align="center" width="1000">
       <p><b>💻 Lenguajes</b></p>
-      <picture><img src="https://skillicons.dev/icons?i=python,kotlin,java,dart,html,css&perline=3&theme=dark" width="280" alt="Lenguajes" /></picture>
+      <picture><img src="assets/tec-lenguajes.svg" height="52" alt="Lenguajes" /></picture>
     </td>
-    <td align="center" width="415">
+    <td align="center" width="1000">
       <p><b>📱 Móvil y frameworks</b></p>
-      <picture><img src="https://skillicons.dev/icons?i=androidstudio,flutter,hibernate,gradle,maven,figma&perline=3&theme=dark" width="280" alt="Móvil y frameworks" /></picture>
+      <picture><img src="assets/tec-movil.svg" height="52" alt="Móvil y frameworks" /></picture>
     </td>
   </tr>
   <tr>
-    <td align="center" width="415">
+    <td align="center" width="1000">
       <p><b>🗄️ Bases de datos</b></p>
-      <picture><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3&theme=dark" width="280" alt="Bases de datos" /></picture>
+      <picture><img src="assets/tec-bd.svg" height="52" alt="Bases de datos" /></picture>
     </td>
-    <td align="center" width="415">
+    <td align="center" width="1000">
       <p><b>🧰 Herramientas</b></p>
-      <picture><img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,docker,git,github&perline=3&theme=dark" width="280" alt="Herramientas" /></picture>
+      <picture><img src="assets/tec-herramientas.svg" height="52" alt="Herramientas" /></picture>
     </td>
   </tr>
 </table>
