@@ -39,21 +39,21 @@
   <tr>
     <td align="center" width="50%">
       <h4>💻 Lenguajes</h4>
-      <img src="https://skillicons.dev/icons?i=python,kotlin,java,dart,html,css&perline=3&theme=dark" width="230" alt="Lenguajes" />
+      <img src="https://skillicons.dev/icons?i=python,kotlin,java,dart,html,css&perline=3&theme=dark" width="330" alt="Lenguajes" />
     </td>
     <td align="center" width="50%">
       <h4>📱 Móvil y frameworks</h4>
-      <img src="https://skillicons.dev/icons?i=androidstudio,flutter,hibernate,gradle,maven,figma&perline=3&theme=dark" width="230" alt="Móvil y frameworks" />
+      <img src="https://skillicons.dev/icons?i=androidstudio,flutter,hibernate,gradle,maven,figma&perline=3&theme=dark" width="330" alt="Móvil y frameworks" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <h4>🗄️ Bases de datos</h4>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3&theme=dark" width="230" alt="Bases de datos" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3&theme=dark" width="330" alt="Bases de datos" />
     </td>
     <td align="center" width="50%">
       <h4>🧰 Herramientas</h4>
-      <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,docker,git,github&perline=3&theme=dark" width="230" alt="Herramientas" />
+      <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,docker,git,github&perline=3&theme=dark" width="330" alt="Herramientas" />
     </td>
   </tr>
 </table>
