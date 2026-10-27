@@ -1,23 +1,5 @@
-<!-- Portada (la misma que en LinkedIn) -->
-<a href="https://www.linkedin.com/in/rubenmorenocid/">
-  <img src="banner.jpg" width="100%" alt="Construyendo apps que despegan" />
-</a>
-
-<div align="center">
-
-  <!-- Subtítulo animado -->
-  <picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5EEAD4&center=true&vCenter=true&width=750&lines=Hola%2C+soy+Rub%C3%A9n+%F0%9F%91%8B;Estudiante+de+DAM+en+U-tad+(Madrid);Python+%C2%B7+Kotlin+%C2%B7+Java;Buscando+pr%C3%A1cticas+-+febrero+2027+%F0%9F%9A%80" alt="Typing SVG" /></picture>
-
-  <br/>
-
-  <!-- Contacto -->
-  <a href="https://www.linkedin.com/in/rubenmorenocid/"><img src="btn-linkedin.svg" height="56" alt="LinkedIn" /></a>
-  <a href="mailto:rubenmoreno.tech@gmail.com"><img src="btn-email.svg" height="56" alt="Email" /></a>
-  <a href="https://www.credly.com/badges/d9faeb66-141c-411d-9c76-c36ea19e2a9c"><img src="btn-credly.svg" height="56" alt="Credly" /></a>
-  <br/>
-  <picture><img src="btn-disponible.svg" height="56" alt="En busca de prácticas (feb 2027)" /></picture>
-
-</div>
+<!-- Cabecera: una imagen partida en 3 columnas, cada una con su enlace -->
+<div align="center"><a href="https://www.linkedin.com/in/rubenmorenocid/"><img src="cabecera-1-linkedin.svg" width="33.33%" alt="LinkedIn" /></a><a href="mailto:rubenmoreno.tech@gmail.com"><img src="cabecera-2-email.svg" width="33.33%" alt="Email" /></a><a href="https://www.credly.com/badges/d9faeb66-141c-411d-9c76-c36ea19e2a9c"><img src="cabecera-3-credly.svg" width="33.33%" alt="Credly" /></a></div>
 
 ---
 
