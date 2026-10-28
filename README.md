@@ -1,3 +1,4 @@
+<!-- Cabecera: una imagen partida en 3 columnas, cada una con su enlace -->
 <div align="center"><a href="https://www.linkedin.com/in/rubenmorenocid/"><img src="assets/cabecera-1-linkedin.svg" width="33.33%" alt="LinkedIn" /></a><a href="mailto:rubenmoreno.tech@gmail.com"><img src="assets/cabecera-2-email.svg" width="33.33%" alt="Email" /></a><a href="https://www.credly.com/badges/d9faeb66-141c-411d-9c76-c36ea19e2a9c"><img src="assets/cabecera-3-credly.svg" width="33.33%" alt="Credly" /></a></div>
 
 ---
@@ -33,6 +34,23 @@
     <td align="center" width="1000">
       <p><b>🧰 Herramientas</b></p>
       <picture><img src="assets/tec-herramientas.svg" height="52" alt="Herramientas" /></picture>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 Experiencia
+
+<table>
+  <tr>
+    <td width="1000" valign="top">
+      <h3>📻 Full Stack Developer · Reddo Tanuki</h3>
+      <sub><b>Prácticas · Project Center de U-tad · Las Rozas de Madrid</b> · <i>mayo 2026</i></sub>
+      <p>Desarrollo de una plataforma de radio digital: lógica de servidor en Python, diseño y consultas de la base de datos e integración con la parte web, trabajando en equipo con Git.</p>
+      <picture><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></picture>
+      <picture><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></picture>
+      <picture><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></picture>
     </td>
   </tr>
 </table>
